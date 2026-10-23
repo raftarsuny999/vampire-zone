@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
-  base: '/my-first-website/',
+  base: '/vampire-zone/',
   plugins: [react()],
   resolve: {
     alias: {
